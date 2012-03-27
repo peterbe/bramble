@@ -3,10 +3,6 @@
  */
 
 #buildgraph rect {
-    fill: steelblue;
+    fill: gray;
     stroke: white;
-}
-
-#buildgraph line {
-    stroke: black;
 }
